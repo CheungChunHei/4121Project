@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY_ID     = "AKIAZVJC76RNMVRSZ7RS"
+AWS_SECRET_ACCESS_KEY = "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"
+tfe_organization      = "the-org-name-you-created"
+tfe_email             = "someone@companyx.com"
+region                = "us-east-1"
